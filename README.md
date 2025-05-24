@@ -6,8 +6,8 @@ This mod for UNBEATABLE adds the precise timing text (the number next to the "PE
 
 ## Compatible game versions
 
-- UNBEATABLE Demo
-- UNBEATABLE \[white label\]
+- UNBEATABLE Demo (tested with `v1.5.28-contentlock`)
+- UNBEATABLE \[white label\] (tested with `v1.0.11-1`)
 
 ## Requirements
 
