@@ -5,8 +5,8 @@ This mod for UNBEATABLE adds the precise timing text (the number next to the "PE
 ![Image showing the timing text "GOOD - 103"](ShowPreciseAccuracyText.png)
 
 ## Compatible game versions
-
-- UNBEATABLE Demo (tested with `v1.5.28-contentlock`)
+- UNBEATABLE (tested with `v1.5.7.2`)
+- UNBEATABLE Demo (tested with `v1.6.3-dotd`)
 - UNBEATABLE \[white label\] (tested with `v1.0.11-1`)
 
 ## Requirements
@@ -23,6 +23,6 @@ This mod for UNBEATABLE adds the precise timing text (the number next to the "PE
 
 ## Configuration
 
-There's only one option, which is to show values for spike dodges. You can change this in the `BepInEx/config/net.zachava.showpreciseaccuracytext.cfg` file by changing `ShowSpikeAccuracy = false` to `ShowSpikeAccuracy = true`
+There's only one option, which is to show values for spike dodges in \[white label\] or the demo. You can change this in the `BepInEx/config/net.zachava.showpreciseaccuracytext.cfg` file by changing `ShowSpikeAccuracy = false` to `ShowSpikeAccuracy = true`
 
 The comment in that file explains when the value will be shown.
