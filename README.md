@@ -5,7 +5,7 @@ This mod for UNBEATABLE adds the precise timing text (the number next to the "PE
 ![Image showing the timing text "GOOD - 103"](ShowPreciseAccuracyText.png)
 
 ## Compatible game versions
-- UNBEATABLE (tested with `v1.5.7.2`)
+- UNBEATABLE (tested with `v1.6.1`)
 - UNBEATABLE Demo (tested with `v1.6.3-dotd`)
 - UNBEATABLE \[white label\] (tested with `v1.0.11-1`)
 
